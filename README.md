@@ -1,1 +1,1 @@
-# VPN-application
+Note: This code is just a basic implementation and may not include all the necessary security checks, error handling, and other important features that a real VPN application should have. You should also replace "VPN_SERVER_IP" and "VPN_SERVER_PORT" with actual values for your VPN server.
